@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DAB2DB66-A12A-41A3-A304-71839A50EA72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../AsyncServer/AsyncServer/Server.cs">
+    <Files>
+      <File FileName="MathExample/Client.cs" Line="27" Column="4" />
+      <File FileName="../AsyncServer/AsyncServer/Server.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AsyncClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
